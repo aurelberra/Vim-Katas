@@ -3,10 +3,11 @@
 Change this text:
 
 ```
-Chapter             Page
-Normal Mode           15
-Insert Mode           31
-Visual Mode           44
+Chapter      | Page
+-------------------
+Normal Mode  |   15
+Insert Mode  |   31
+Visual Mode  |   44
 ```
 
 Make it look like this
@@ -24,4 +25,4 @@ Visual Mode  |   44
 `gv` - reselects the same visual selection
 `r|` - repeats adding the pipe
 `yyp` - duplicate the first row
-`Vr-` - select the entire line, repeat the "-" for the row
+`Vr-` - select the entire line, repeat the "-" for the row <!-- HACK: -->

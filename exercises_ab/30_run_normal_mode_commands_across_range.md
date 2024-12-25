@@ -3,11 +3,11 @@
 There is a block of text like this:
 
 ```javascript
-var foo = 1
-var bar = 'a'
-var baz = 'z'
-var foobar = foo + bar
-var foobarbaz = foo + bar + baz
+var foo = 1;
+var bar = 'a';
+var baz = 'z';
+var foobar = foo + bar;
+var foobarbaz = foo + bar + baz;;
 ```
 
 `A;<Esc>` - Add semicolon to the end of first line
@@ -16,6 +16,7 @@ Visual select the rows
 
 or solve it like this:
 `:'<,'>normal A;` - executes normal command for all highlighted lines
+<!-- HACK: :norm with or without visual mode -->
 
 Add semi-colon to all lines in file:
 `:%normal A;`

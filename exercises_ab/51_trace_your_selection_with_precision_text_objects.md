@@ -4,7 +4,7 @@ Let's say there is this JS snippet:
 
 ```javascript
 var tpl = [
-  '<a href="{url}">{title}</a>'
+  '<a href="#">click here</a>'
 ]
 ```
 

@@ -3,9 +3,10 @@
 Make this:
 
 ```ruby
-class XhtmlDocument < XmlDocument; end
-class XhtmlTag < XmlTag; end
+class XHTMLDocument < XMLDocument; end
+class XHTMLTag < XMLTag; end
 ```
+
 to be like this:
 
 ```ruby

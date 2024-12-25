@@ -41,6 +41,7 @@ Pages and insert it into a new document there
 `6*35<CR>` - will provide the text "210" and drop back into insert mode
 
 ## More registers
+
 `<C-r>%` - name of the current file
 `<C-r>#` - name of the alternate file
 `<C-r>.` - last inserted text

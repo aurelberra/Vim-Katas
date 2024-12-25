@@ -1,10 +1,10 @@
 ### Edit the contents of a macro
 
 ```text
-1. One
-2. Two
-3. three
-4. four
+1) One
+2) Two
+3) Three
+4) Four
 ```
 
 Some of the lines use capital letter, `~` would just switch casing, we need to use `vU` here, which makes the char upper-cased at the cursor.

@@ -1,15 +1,17 @@
 ### Repeat a Change on Contiguous Lines
 
 Given this text:
+
 ```
-1. one
-2. two
-3. three
-4. four
-5. five
+1) One
+2) Two
+3) Three
+4) Four
+5) Five
 ```
 
 Change it to be like this:
+
 ```
 1) One
 2) Two
@@ -29,13 +31,14 @@ We can replay the macro with this:
 `@a` - and `@@` after that
 
 But what if there is line barrier in the text like this?
+
 ```
-1. one
-2. two
-3. three
+1) One
+2) Two
+3) Three
 // Some comment
-4. four
-5. five
+4) Four
+5) Five
 ```
 
 Replay it with the highlighted text:

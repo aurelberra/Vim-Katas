@@ -21,6 +21,11 @@ Duplicate the `<tr>` tag content
     <td>buffer contents</td>
   </tr>
 
+  <tr>
+    <td>keystrokes</td>
+    <td>buffer contents</td>
+  </tr>
+
 </table>
 ```
 

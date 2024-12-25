@@ -8,13 +8,19 @@
 
 ```
 first name, last name, email
-john,smith,john@example.com
-drew,neil,drew@vimcast.org
-jane,doe,jane@example.com
+john,smith,john@example3.com
+drew,neil,drew@vimcast1.org
+drew,neil,drew@vimcast1.org
+jane,doe,jane@example0.com
 ```
 
 Visual highlight the lines to be sorted
 `:'<,'>!sort -t',' -k2` - the sort shell command is used to sort the lines
+<!-- HACK:simpler with default Vim implementation
+* sort on chosen column: sort /.*\%2v/
+* sort on first number: sort n
+* sort unique: sort u
+-->
 
 3. Pull up command history in vim
 

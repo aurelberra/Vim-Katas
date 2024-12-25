@@ -3,11 +3,11 @@
 Change this text:
 
 ```shell
-partridge in a pear tree
-turtle doves
-French hens
-calling birds
-golden rings
+1) partridge in a pear tree
+2) turtle doves
+3) French hens
+4) calling birds
+5) golden rings
 ```
 
 to:

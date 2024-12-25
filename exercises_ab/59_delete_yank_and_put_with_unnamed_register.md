@@ -3,7 +3,7 @@
 Let's say we made a mistake of typing this text:
 
 ```
-Practica lvim
+Practical vim
 ```
 
 Start on the last character 'm'
@@ -16,8 +16,9 @@ Start on the last character 'm'
 Similar concept can be used for lines
 
 ```
-2) line two
 1) line one
+2) line two
+3) line three
 3) line three
 ```
 

@@ -1,4 +1,4 @@
-###  Create complex patterns by iterating upon search history
+### Create complex patterns by iterating upon search history
 
 Change the single quotes to double quotes.
 

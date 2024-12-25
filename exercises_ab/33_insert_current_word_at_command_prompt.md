@@ -3,7 +3,7 @@
 Rename the variable 'tally' to 'counter':
 
 ```javascript
-var tally;
+var counter;
 for (tally=1; tally <= 10; tally++) {
   // Do something with tally
 };

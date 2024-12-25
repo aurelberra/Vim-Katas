@@ -3,7 +3,7 @@
 Make this text:
 
 ```javascript
-var x = "("+a+","+b+","+c+","+d+","+e+")";
+var x = "(" + a + "," + b + "," + c + "," + d + "," + e + ")";
 ```
 
 Look like this:

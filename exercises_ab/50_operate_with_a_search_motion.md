@@ -3,8 +3,7 @@
 There is this text, delete the part "take time but eventually".
 
 ```
-This phrase takes time but
-eventually gets to the point.
+This phrase gets to the point.
 ```
 
 `v` - enter into character-wise visual mode
@@ -14,4 +13,4 @@ eventually gets to the point.
 
 Here is a quicker way of doing the same thing:
 
-`d/ge<CR>` - does the whole thing in 1 move
+`d/ge<CR>` - does the whole thing in 1 move <!-- HACK: -->
